@@ -1,0 +1,1167 @@
+{
+    "version": "1.0.0",
+    "author": "призрак",
+    "feeds": [
+        {
+            "name": "Cubadebate",
+            "feed": "http://www.cubadebate.cu/feed/",
+            "description": "Cubadebate, Contra el Terrorismo Mediático"
+        },
+        {
+            "name": "Mesa Redonda",
+            "feed": "http://mesaredonda.cubadebate.cu/feed/",
+            "description": "Medio de expresión de periodistas comprometidos con espacio para el intercambio sobre el terrorismo y las campañas de difamación organizadas contra Cuba."
+        },
+        {
+            "name": "Infecciones por Coronavirus",
+            "feed": "https://temas.sld.cu/coronavirus/feed/",
+            "description": "Sitio web de Cuba dedicado a las infecciones por coronavirus"
+        },
+        {
+            "name": "Actualización para Deltachat Android",
+            "feed": "https://github.com/deltachat/deltachat-android/releases.atom"
+        },
+        {
+            "name": "Actualización Deltachat Desktop",
+            "feed": "https://github.com/deltachat/deltachat-desktop/releases.atom"
+        },
+        {
+            "name": "Ampere Vital",
+            "feed": "http://amperevital.cubava.cu/feed/",
+            "description": "El Portal del Electromédico"
+        },
+        {
+            "name": "Andro4all",
+            "feed": "http://feeds.feedburner.com/andro4all",
+            "description": "Android para todos: últimas noticias, las mejores apps, nuevos móviles, trucos y mucho más aquí, en Andro4all"
+        },
+        {
+            "name": "Anime_Plus",
+            "feed": "https://animemas.cubava.cu/feed/"
+        },
+        {
+            "name": "AniTube",
+            "feed": "https://anitube.cubava.cu/",
+            "description": "AniTube | Ofreciendo Anime Gratis a Toda Cuba"
+        },
+        {
+            "name": "Aleteia",
+            "feed": "https://es.aleteia.org/feed",
+            "description": "Cultura japonesa, Anime, Manga, Videojuegos, Cosplay, Maid Café, AMVs, Cómics, Literatura Fantástica y de Ciencia Ficción, Expoventas, Concursos, etc"
+        },
+        {
+            "name": "Al Día… con lo último de primero",
+            "feed": "https://bravo.cubava.cu/feed/"
+        },
+        {
+            "name": "Almamater",
+            "feed": "http://www.almamater.cu/rss.xml",
+            "description": "La revista de los universitarios cubanos"
+        },
+        {
+            "name": "ANIMAT",
+            "feed": "https://animat.cubava.cu/feed/",
+            "description": "Cultura japonesa, Anime, Manga, Videojuegos, Cosplay, Maid Café, AMVs, Cómics, Literatura Fantástica y de Ciencia Ficción, Expoventas, Concursos, etc."
+        },
+        {
+            "name": "OUIJA",
+            "feed": "https://ouija.cubava.cu/feed/",
+            "description": "BIENVENIDOS A TUS MIEDOS | OUIJA"
+        },
+        {
+            "name": "ABNJM",
+            "feed": "http://www.bnjm.cu/rss.php",
+            "description": "BNJM"
+        },
+        {
+            "name": "Blog Ecured, Enciclopedia colaborativa en la red cubana",
+            "feed": "https://ecured.cubava.cu/feed/",
+            "description": "Blog Ecured"
+        },
+        {
+            "name": "Blog – PSICOLOGÍA DEL ÉXITO",
+            "feed": "https://psicologiadelexito.com/blog/feed/",
+            "description": "Persigue el éxito integral con Mario Luna"
+        },
+        {
+            "name": "Blog del ministerio de Comunicaciones de Cuba (mincom)",
+            "feed": "https://mincom.cubava.cu/feed/"
+        },
+        {
+            "name": "Bohemia",
+            "feed": "http://bohemia.cu/feed/",
+            "description": "Revista Bohemia, publicación seriada cubana"
+        },
+        {
+            "name": "Caiman Barbudo",
+            "feed": "http://www.caimanbarbudo.cu/feed/",
+            "description": "Revista cultural de la juventud, comprometida con lo más avanzado y revolucionario de la cultura cubana e internacional."
+        },
+        {
+            "name": "Correr es Vivir",
+            "feed": "https://correresvivir.cubava.cu/feed/"
+        },
+        {
+            "name": "Clases de Periodismo",
+            "feed": "http://www.clasesdeperiodismo.com/feed",
+            "description": "Escuela virtual de periodismo digital para América Latina"
+        },
+        {
+            "name": "Cubasi",
+            "feed": "http://cubasi.cu/cubasi-noticias-cuba-mundo-ultima-hora/itemlist?format=feed&type=rss",
+            "description": "Portal Cuba Sí. Plataforma web brinda información actualizada en torno al acontecer cultural, político, educativo y económico de Cuba,"
+        },
+        {
+            "name": "Cuba Socialista",
+            "feed": "http://www.cubasocialista.cu/feed",
+            "description": "Portal digital de la revista cuatrimestral teórica y política editada por el Comité Central del Partido Comunista de Cuba"
+        },
+        {
+            "name": "Cubadebate - Canal USB",
+            "feed": "http://www.cubadebate.cu/columna/canal-usb/feed",
+            "description": "Sección de Cubadebate para hablar sobre audiovisuales, tecnología y videojuegos."
+        },
+        {
+            "name": "Cubadebate - Con Humor",
+            "feed": "http://www.cubadebate.cu/columna/con-humor/feed/",
+            "description": "Caricaturas, crónicas picarescas y otras miradas a la realidad en clave de humor."
+        },
+        {
+            "name": "Cubaliteraria",
+            "feed": "http://www.cubaliteraria.cu/feed",
+            "description": "El Portal de la Literatura Cubana"
+        },
+        {
+            "name": "Cubatravel - Turismo en Cuba",
+            "feed": "https://www.cubatravel.cu/DesktopModules/Blog/API/RSS/Get?tabid=815&moduleid=884&language=es-ES"
+        },
+        {
+            "name": "De Modas",
+            "feed": "https://demodas.cubava.cu/feed/"
+        },
+        {
+            "name": "Dracmers Books - libros",
+            "feed": "https://dracmersbooks.cubava.cu/feed/"
+        },
+        {
+            "name": "Espinof",
+            "feed": "http://www.espinof.com/index.xml",
+            "description": "Espinof, últimas noticias de cine, televisión y series: Actualidad cinematográfica, estrenos en cartelera, premios, rodajes, nuevas películas y audiencias."
+        },
+        {
+            "name": "Estanquillo",
+            "feed": "https://estanquilloblog.cubava.cu/feed/",
+            "description": "Revistas y Medios de Prensa"
+        },
+        {
+            "name": "El Androide Libre",
+            "feed": "http://elandroidelibre.elespanol.com/feed/",
+            "description": "Android: aplicaciones, juegos, noticias, smartphones."
+        },
+        {
+            "name": "ENOVA",
+            "feed": "http://enova.cubava.cu/feed/",
+            "description": "Enterate, informate y aprende con nosotros. Variados y diferentes."
+        },
+        {
+            "name": "Fan Book - Libros",
+            "feed": "https://dagnethn.cubava.cu/feed/"
+        },
+        {
+            "name": "FB Barcelona | Més que un club",
+            "feed": "https://azulgrana.cubava.cu/feed/"
+        },
+        {
+            "name": "Granma",
+            "feed": "http://www.granma.cu/feed",
+            "description": "Periódico cubano, órgano oficial del Comité Central del Partido Comunista de Cuba"
+        },
+        {
+            "name": "GUTL",
+            "feed": "https://gutl.jovenclub.cu/feed/",
+            "description": "Grupo de Usuarios de Tecnologías Libres"
+        },
+        {
+            "name": "Guayacán de Cuba",
+            "feed": "https://guayacandecuba.cubava.cu/feed/"
+        },
+        {
+            "name": "Instituto de Meteorología de la República de Cuba",
+            "feed": "http://www.insmet.cu/asp/genesis.asp?TB0=RSSFEED"
+        },
+        {
+            "name": "JR Cocina",
+            "feed": "http://www.juventudrebelde.cu/get/rss/suplementos/cocina-con-jr",
+            "description": "Juventud Rebelde - Cocina"
+        },
+        {
+            "name": "JR Tecla Duende",
+            "feed": "http://www.juventudrebelde.cu/get/rss/columnas/tecla-duende",
+            "description": "Juventud Rebelde - Tecla Duende"
+        },
+        {
+            "name": "JR La Mirada del Lector",
+            "feed": "http://www.juventudrebelde.cu/get/rss/suplementos/la-mirada-del-lector",
+            "description": "Juventud Rebelde - La Mirada del Lector"
+        },
+        {
+            "name": "JR Inter-nos",
+            "feed": "http://www.juventudrebelde.cu/get/rss/columnas/inter-nos",
+            "description": "Juventud Rebelde - Inter-nos"
+        },
+        {
+            "name": "JR Latigo Cascabel",
+            "feed": "http://www.juventudrebelde.cu/get/rss/columnas/latigo-cascabel",
+            "description": "Juventud Rebelde - Latigo Cascabel"
+        },
+        {
+            "name": "JR En serio con las series",
+            "feed": "http://www.juventudrebelde.cu/get/rss/suplementos/en-serio-con-las-series",
+            "description": "Juventud Rebelde - En serio con las series"
+        },
+        {
+            "name": "JR Asi de Facil",
+            "feed": "http://www.juventudrebelde.cu/get/rss/suplementos/asi-de-facil",
+            "description": "Juventud Rebelde - Asi de Facil"
+        },
+        {
+            "name": "JR Los que Sonamos",
+            "feed": "http://www.juventudrebelde.cu/get/rss/columnas/los-que-sonamos",
+            "description": "Juventud Rebelde - Los que Sonamos"
+        },
+        {
+            "name": "JR Lecturas",
+            "feed": "http://www.juventudrebelde.cu/get/rss/columnas/lecturas",
+            "description": "Juventud Rebelde - Lecturas"
+        },
+        {
+            "name": "JR Noticias",
+            "feed": "http://www.juventudrebelde.cu/get/rss/noticias/cuba",
+            "description": "Diario de la Juventud Cubana."
+        },
+        {
+            "name": "JR Ciencia Tecnica",
+            "feed": "http://www.juventudrebelde.cu/get/rss/suplementos/ciencia-tecnica/",
+            "description": "Juventud Rebelde - Ciencia Tecnica"
+        },
+        {
+            "name": "Juventud Tégnica",
+            "feed": "http://www.juventudtecnica.cu/rss.xml",
+            "description": "Publicación cubana dedicada a la divulgación de temas de ciencia, tecnología y medio ambiente."
+        },
+        {
+            "name": "JW.ORG - Novedades",
+            "feed": "https://www.jw.org/es/lo-nuevo/rss/WhatsNewWebArticles/feed/",
+            "description": "Vea la información más reciente publicada en jw.org, el sitio oficial de los testigos de Jehová."
+        },
+        {
+            "name": "La Contrapelusa",
+            "feed": "https://eduardo9006.cubava.cu/feed/",
+            "description": "La Contrapelusa es el sitio de tus series , películas y artistas favoritos .Mantente informado y actualizado con nosotros ."
+        },
+        {
+            "name": "La Jiribilla",
+            "feed": "http://lajiribilla.cu/rss",
+            "description": "Información de actualidad sobre la cultura cubana."
+        },
+        {
+            "name": "La Papeleta",
+            "feed": "http://www.lapapeleta.cult.cu/feeds/",
+            "description": "Cartelera Cultural Cubana"
+        },
+        {
+            "name": "LibreOffice Cuba",
+            "feed": "https://libreoffice.cubava.cu/feed/",
+            "description": "Comunidad cubana de LibreOffice"
+        },
+        {
+            "name": "Madridismo | Cuba |",
+            "feed": "https://fcrealmadrid.cubava.cu/feed/"
+        },
+        {
+            "name": "MangaKubano - Manga aficionado en Cuba",
+            "feed": "https://trunks07.cubava.cu/feed/",
+            "description": "Un sitio dedicado al Manga aficionado en Cuba"
+        },
+        {
+            "name": "MaMilogía - Piensa Diferente",
+            "feed": "https://rosylia7.cubava.cu/feed/"
+        },
+        {
+            "name": "Martin Dihigo el Mejor 2013 | Lo mejor de las peñas virtuales",
+            "feed": "https://martindihigoelmejor2013.cubava.cu/feed/"
+        },
+        {
+            "name": "Medimay",
+            "feed": "http://www.revcmhabana.sld.cu/index.php/rcmh/gateway/plugin/WebFeedGatewayPlugin/atom",
+            "description": "Centro Provincial de Información de Ciencias Médicas de Mayabeque"
+        },
+        {
+            "name": "Ministerio de Economía y Planificación de Cuba",
+            "feed": "https://www.mep.gob.cu/es/rss.xml"
+        },
+        {
+            "name": "Miradas TNT - Electrónica",
+            "feed": "https://jorgetnt.cubava.cu/feed/"
+        },
+        {
+            "name": "Mochila Blog",
+            "feed": "http://mochilablog.cubava.cu/feed/"
+        },
+        {
+            "name": "Móvil JA",
+            "feed": "https://moviljacuba.wordpress.com/feed/",
+            "description": "Todo sobre la Tecnología"
+        },
+        {
+            "name": "MovilZona",
+            "feed": "https://www.movilzona.es/feed/",
+            "description": "Movil Zona : Portal especializado en telefonía móvil. Noticias de actualidad, fichas técnicas, foros de ayuda, estudios y comparativas"
+        },
+        {
+            "name": "Morales Electrónica",
+            "feed": "https://morales.cubava.cu/feed/"
+        },
+        {
+            "name": "Mujeres",
+            "feed": "http://www.mujeres.co.cu/rss/",
+            "description": "Mujeres, órgano de la Federación de Mujeres Cubanas (FMC)"
+        },
+        {
+            "name": "Mundo Tecnológico",
+            "feed": "https://liovel.cubava.cu/feed/"
+        },
+        {
+            "name": "Noticias de la OMS",
+            "feed": "https://www.who.int/feeds/entity/mediacentre/news/es/rss.xml"
+        },
+        {
+            "name": "Noticias y Análisis de todos Dispositivos Móviles",
+            "feed": "https://www.geeksweb.net/feed/",
+            "description": "Movil, Apple, Celular, Gratis, Trucos, Noticias, iPhone, iOS, iCloud"
+        },
+        {
+            "name": "NotiDeporte – Más que noticias",
+            "feed": "https://notideporte.cubava.cu/feed/"
+        },
+        {
+            "name": "Opciones",
+            "feed": "http://www.opciones.cu/feed/",
+            "description": "Opciones - Semanario económico y financiero de Cuba"
+        },
+        {
+            "name": "(Nuevo)Psicología Estratégica | Psicóloga Online - Talleres - Blog",
+            "feed": "https://psicologia-estrategica.com/feed/",
+            "description": "Herramientas para tu desarrollo personal y bienestar emocional. Psicóloga Online, Talleres y Artículos sobre Psicología."
+        },
+        {
+            "name": "Portada - Periódico Sierra Maestra",
+            "feed": "http://www.sierramaestra.cu/index.php?format=feed&type=rss",
+            "description": "Portal del Periódico Sierra Maestra de Santiago de Cuba, Órgano Oficial del Partido Comunista de Santiago de Cuba"
+        },
+        {
+            "name": "Presidencia de Cuba",
+            "feed": "https://www.presidencia.gob.cu/es/feed",
+            "description": "Sitio oficial, Presidencia de la República de Cuba"
+        },
+        {
+            "name": "Portales de temas de salud",
+            "feed": "https://temas.sld.cu/feed",
+            "description": "Servicio de creación de sitios Web de temas de salud"
+        },
+        {
+            "name": "Portal ANAP Cuba",
+            "feed": "http://www.revista.anap.cu/?feed=rss2"
+        },
+        {
+            "name": "Próximos estrenos (CINE)",
+            "feed": "http://rss.sensacine.com/cine/proximamente"
+        },
+        {
+            "name": "Radio Reloj",
+            "feed": "http://www.radioreloj.icrt.cu/es/feed/",
+            "description": "Emisora cubana de noticias"
+        },
+        {
+            "name": "Radio Enciclopedia",
+            "feed": "http://www.radioenciclopedia.cu/rss/",
+            "description": "Sitio web de CMBQ Radio Enciclopedia"
+        },
+        {
+            "name": "Redes Libres",
+            "feed": "http://adbenitez.cubava.cu/feed/",
+            "description": "Software libre, privacidad y libertad tecnológica"
+        },
+        {
+            "name": "Reparación de Memorias USB",
+            "feed": "https://repusb.cubava.cu/feed/"
+        },
+        {
+            "name": "Release notes from ZHV",
+            "feed": "https://github.com/Simon-Laux/ZHV/releases.atom"
+        },
+        {
+            "name": "Salud Al Día, Servicio de noticias",
+            "feed": "http://boletinaldia.sld.cu/aldia/feed/"
+        },
+        {
+            "name": "Sentimientos Apacibles",
+            "feed": "https://sentimientosapacibles.cubava.cu/feed/"
+        },
+        {
+            "name": "Siempre Mujer",
+            "feed": "https://siempremujer.cubava.cu/feed"
+        },
+        {
+            "name": "Sí se Puede | Con una mirada al futuro",
+            "feed": "https://sisepuede.cubava.cu/feed/"
+        },
+        {
+            "name": "Sputnik Mundo",
+            "feed": "https://mundo.sputniknews.com/export/rss2/archive/index.xml",
+            "description": "Sputnik Mundo es una agencia de noticias rusa que te trae las historias más importantes del acontecer mundial en español. Encuentra las noticias de última hora y temas de actualidad e interés en nuestra página"
+        },
+        {
+            "name": "SomosCocineros.com - La mejor comunidad de recetas de cocina",
+            "feed": "https://somoscocineros.com/feed/"
+        },
+        {
+            "name": "Soldado de Jesucristo",
+            "feed": "https://alianjesus.cubava.cu/feed/"
+        },
+        {
+            "name": "SmartGSM",
+            "feed": "https://www.smart-gsm.com/blog/feed",
+            "description": "Reviews e información de Teléfonos celulares"
+        },
+        {
+            "name": "Subcomité 7 – Ingeniería de Software y Sistemas (SC7)",
+            "feed": "https://subcomite7.cubava.cu/feed/"
+        },
+        {
+            "name": "Tecno Mundo",
+            "feed": "http://tecnomundo.cubava.cu/feed",
+            "description": "Noticias y mucho más del acontecer tecnológico"
+        },
+        {
+            "name": "TecnoLike Plus",
+            "feed": "https://tecnolikecuba.com/feed/",
+            "description": "Todo lo referente a tecnología tanto de Cuba como del Mundo"
+        },
+        {
+            "name": "Theoneblog",
+            "feed": "https://theoneblog.cubava.cu/feed/"
+        },
+        {
+            "name": "TodoAPK",
+            "feed": "https://blogapk.cubava.cu/feed/",
+            "description": "Todo en Tecnología"
+        },
+        {
+            "name": "TV Santiago",
+            "feed": "http://www.tvsantiago.icrt.cu/feed/"
+        },
+        {
+            "name": "Trabajadores",
+            "feed": "http://www.trabajadores.cu/rss",
+            "description": "Órgano de la Central de Trabajadores de Cuba. Opinión, Deportes, Cultura, Salud, Órbita Sindical. Edición impresa cada lunes."
+        },
+        {
+            "name": "Trendencias Hombre",
+            "feed": "http://feeds.weblogssl.com/trendenciashombre",
+            "description": "Noticias sobre moda masculina para hombres con estilo. Las últimas tendencias de moda para hombres, looks, consejos y actualidad sobre fitness y lifestyle."
+        },
+        {
+            "name": "Tu Androide",
+            "feed": "https://jorgen.cubava.cu/feed/"
+        },
+        {
+            "name": "Tr-DiazCanelB",
+            "feed": "http://twitrss.me/twitter_user_to_rss/?user=DiazCanelB",
+            "description": "123"
+        },
+        {
+            "name": "Tr-ETECSA_Cuba",
+            "feed": "http://twitrss.me/twitter_user_to_rss/?user=ETECSA_Cuba",
+            "description": ""
+        },
+        {
+            "name": "TuttoCalcio – La imagen de la Serie A en Cuba",
+            "feed": "https://juventusfcycalcio.cubava.cu/feed/"
+        },
+        {
+            "name": "UNOCERO",
+            "feed": "https://www.unocero.com/feed/",
+            "description": "Sitio web especializado en tecnología"
+        },
+        {
+            "name": "Venceremos",
+            "feed": "http://www.venceremos.cu/guantanamo-noticias?format=feed&type=rss",
+            "description": "Periódico de la provincia de Guantánamo"
+        },
+        {
+            "name": "Vida Lúcida",
+            "feed": "https://www.lavidalucida.com/rss",
+            "description": "Vida Lúcida proporciona información sobre salud y bienestar general, con secciones sobre nutrición, hogar y jardín, diseño y decoración, tips y consejos, cuidados para la mujer y el hombre, noticias y curiosidades del mundo y los mejores remedios caseros y recetas para la cocina."
+        },
+        {
+            "name": "Wowmania - juegos",
+            "feed": "https://wowmania.cubava.cu/feed/"
+        },
+        {
+            "name": "Xataka",
+            "feed": "http://xataka.com/index.xml",
+            "description": "Publicación de noticias sobre gadgets y tecnología. Últimas tecnologías en electrónica de consumo y novedades tecnológicas en móviles, tablets, informática, etc"
+        },
+        {
+            "name": "Xataka Android ",
+            "feed": "https://www.xatakandroid.com/index.xml",
+            "description": "Android. Noticias e información sobre el Sistema Operativo para dispositivos móviles de Google: Android Market, aplicaciones, móviles, tablets y más en Xataka Android."
+        }
+    ],
+    "consoles": [
+        "acorn-8-bit",
+        "acorn-archimedes",
+        "acorn-electron",
+        "amiga-500",
+        "amstrad-cpc",
+        "amstrad-gx4000",
+        "apple-i",
+        "apple-ii",
+        "apple-ii-gs",
+        "atari-2600",
+        "atari-5200",
+        "atari-7800",
+        "atari-800",
+        "atari-jaguar",
+        "atari-lynx",
+        "atari-st",
+        "bally-pro-arcade-astrocade",
+        "bbc-micro",
+        "camputers-lynx",
+        "capcom-play-system-1",
+        "capcom-play-system-2",
+        "casio-loopy",
+        "casio-pv1000",
+        "colecovision",
+        "colecovision-adam",
+        "commodore-64",
+        "commodore-max-machine",
+        "commodore-pet",
+        "commodore-plus4-c16",
+        "commodore-vic20",
+        "dragon-data-dragon",
+        "elektronika-bk",
+        "emerson-arcadia-2001",
+        "entex-adventure-vision",
+        "epoch-super-cassette-vision",
+        "fairchild-channel-f",
+        "funtech-super-acan",
+        "galaksija",
+        "game-gear",
+        "gameboy",
+        "gameboy-advance",
+        "gameboy-color",
+        "gamecube",
+        "gamepark-gp32",
+        "gce-vectrex",
+        "hartung-game-master",
+        "intellivision",
+        "interact-family-computer",
+        "kaypro-ii",
+        "luxor-abc-800",
+        "magnavox-odyssey-2",
+        "mame-037b11",
+        "mattel-aquarius",
+        "memotech-mtx512",
+        "microsoft-xbox",
+        "miles-gordon-sam-coupe",
+        "msx-2",
+        "msx-computer",
+        "neo-geo",
+        "neo-geo-pocket",
+        "neo-geo-pocket-color",
+        "nintendo",
+        "nintendo-3ds",
+        "nintendo-64",
+        "nintendo-ds",
+        "nintendo-famicom-disk-system",
+        "nintendo-pokemon-mini",
+        "nintendo-virtual-boy",
+        "nintendo-wii",
+        "nokia-n-gage",
+        "pel-varazdin-orao",
+        "philips-videopac",
+        "playstation",
+        "playstation-2",
+        "playstation-portable",
+        "rca-studio-ii",
+        "robotron-z1013",
+        "sega-32x",
+        "dreamcast",
+        "sega-genesis",
+        "sega-master-system",
+        "sega-pico",
+        "sega-sg1000",
+        "sega-super-control-station",
+        "sega-visual-memory-system",
+        "sharp-mz-700",
+        "sharp-x68000",
+        "sinclair-zx81",
+        "sufami-turbo",
+        "super-grafx",
+        "super-nintendo",
+        "tandy-color-computer",
+        "tangerine-oric",
+        "thomson-mo5",
+        "tiger-game-com",
+        "turbografx-16",
+        "vtech-creativision",
+        "vtech-v-smile",
+        "wang-vs",
+        "watara-supervision",
+        "wonderswan",
+        "z-machine-infocom",
+        "zx-spectrum"],
+    "languages": [
+        [
+            "Automatic",
+            "auto"
+        ],
+        [
+            "Afrikaans",
+            "af"
+        ],
+        [
+            "Albanian",
+            "sq"
+        ],
+        [
+            "Amharic",
+            "am"
+        ],
+        [
+            "Arabic",
+            "ar"
+        ],
+        [
+            "Armenian",
+            "hy"
+        ],
+        [
+            "Assamese",
+            "as"
+        ],
+        [
+            "Aymara",
+            "ay"
+        ],
+        [
+            "Azerbaijani",
+            "az"
+        ],
+        [
+            "Bambara",
+            "bm"
+        ],
+        [
+            "Basque",
+            "eu"
+        ],
+        [
+            "Belarusian",
+            "be"
+        ],
+        [
+            "Bengali",
+            "bn"
+        ],
+        [
+            "Bhojpuri",
+            "bho"
+        ],
+        [
+            "Bosnian",
+            "bs"
+        ],
+        [
+            "Bulgarian",
+            "bg"
+        ],
+        [
+            "Catalan",
+            "ca"
+        ],
+        [
+            "Cebuano",
+            "ceb"
+        ],
+        [
+            "Chinese (Simplified)",
+            "zh"
+        ],
+        [
+            "Chinese (Traditional)",
+            "zh-TW"
+        ],
+        [
+            "Corsican",
+            "co"
+        ],
+        [
+            "Croatian",
+            "hr"
+        ],
+        [
+            "Czech",
+            "cs"
+        ],
+        [
+            "Danish",
+            "da"
+        ],
+        [
+            "Dhivehi",
+            "dv"
+        ],
+        [
+            "Dogri",
+            "doi"
+        ],
+        [
+            "Dutch",
+            "nl"
+        ],
+        [
+            "English",
+            "en"
+        ],
+        [
+            "Esperanto",
+            "eo"
+        ],
+        [
+            "Estonian",
+            "et"
+        ],
+        [
+            "Ewe",
+            "ee"
+        ],
+        [
+            "Filipino (Tagalog)",
+            "fil"
+        ],
+        [
+            "Finnish",
+            "fi"
+        ],
+        [
+            "French",
+            "fr"
+        ],
+        [
+            "Frisian",
+            "fy"
+        ],
+        [
+            "Galician",
+            "gl"
+        ],
+        [
+            "Georgian",
+            "ka"
+        ],
+        [
+            "German",
+            "de"
+        ],
+        [
+            "Greek",
+            "el"
+        ],
+        [
+            "Guarani",
+            "gn"
+        ],
+        [
+            "Gujarati",
+            "gu"
+        ],
+        [
+            "Haitian Creole",
+            "ht"
+        ],
+        [
+            "Hausa",
+            "ha"
+        ],
+        [
+            "Hawaiian",
+            "haw"
+        ],
+        [
+            "Hebrew",
+            "he or iw"
+        ],
+        [
+            "Hindi",
+            "hi"
+        ],
+        [
+            "Hmong",
+            "hmn"
+        ],
+        [
+            "Hungarian",
+            "hu"
+        ],
+        [
+            "Icelandic",
+            "is"
+        ],
+        [
+            "Igbo",
+            "ig"
+        ],
+        [
+            "Ilocano",
+            "ilo"
+        ],
+        [
+            "Indonesian",
+            "id"
+        ],
+        [
+            "Irish",
+            "ga"
+        ],
+        [
+            "Italian",
+            "it"
+        ],
+        [
+            "Japanese",
+            "ja"
+        ],
+        [
+            "Javanese",
+            "jv"
+        ],
+        [
+            "Kannada",
+            "kn"
+        ],
+        [
+            "Kazakh",
+            "kk"
+        ],
+        [
+            "Khmer",
+            "km"
+        ],
+        [
+            "Kinyarwanda",
+            "rw"
+        ],
+        [
+            "Konkani",
+            "gom"
+        ],
+        [
+            "Korean",
+            "ko"
+        ],
+        [
+            "Krio",
+            "kri"
+        ],
+        [
+            "Kurdish",
+            "ku"
+        ],
+        [
+            "Kurdish (Sorani)",
+            "ckb"
+        ],
+        [
+            "Kyrgyz",
+            "ky"
+        ],
+        [
+            "Lao",
+            "lo"
+        ],
+        [
+            "Latin",
+            "la"
+        ],
+        [
+            "Latvian",
+            "lv"
+        ],
+        [
+            "Lingala",
+            "ln"
+        ],
+        [
+            "Lithuanian",
+            "lt"
+        ],
+        [
+            "Luganda",
+            "lg"
+        ],
+        [
+            "Luxembourgish",
+            "lb"
+        ],
+        [
+            "Macedonian",
+            "mk"
+        ],
+        [
+            "Maithili",
+            "mai"
+        ],
+        [
+            "Malagasy",
+            "mg"
+        ],
+        [
+            "Malay",
+            "ms"
+        ],
+        [
+            "Malayalam",
+            "ml"
+        ],
+        [
+            "Maltese",
+            "mt"
+        ],
+        [
+            "Maori",
+            "mi"
+        ],
+        [
+            "Marathi",
+            "mr"
+        ],
+        [
+            "Meiteilon (Manipuri)",
+            "mni-Mtei"
+        ],
+        [
+            "Mizo",
+            "lus"
+        ],
+        [
+            "Mongolian",
+            "mn"
+        ],
+        [
+            "Myanmar (Burmese)",
+            "my"
+        ],
+        [
+            "Nepali",
+            "ne"
+        ],
+        [
+            "Norwegian",
+            "no"
+        ],
+        [
+            "Nyanja (Chichewa)",
+            "ny"
+        ],
+        [
+            "Odia (Oriya)",
+            "or"
+        ],
+        [
+            "Oromo",
+            "om"
+        ],
+        [
+            "Pashto",
+            "ps"
+        ],
+        [
+            "Persian",
+            "fa"
+        ],
+        [
+            "Polish",
+            "pl"
+        ],
+        [
+            "Portuguese (Portugal, Brazil)",
+            "pt"
+        ],
+        [
+            "Punjabi",
+            "pa"
+        ],
+        [
+            "Quechua",
+            "qu"
+        ],
+        [
+            "Romanian",
+            "ro"
+        ],
+        [
+            "Russian",
+            "ru"
+        ],
+        [
+            "Samoan",
+            "sm"
+        ],
+        [
+            "Sanskrit",
+            "sa"
+        ],
+        [
+            "Scots Gaelic",
+            "gd"
+        ],
+        [
+            "Sepedi",
+            "nso"
+        ],
+        [
+            "Serbian",
+            "sr"
+        ],
+        [
+            "Sesotho",
+            "st"
+        ],
+        [
+            "Shona",
+            "sn"
+        ],
+        [
+            "Sindhi",
+            "sd"
+        ],
+        [
+            "Sinhala (Sinhalese)",
+            "si"
+        ],
+        [
+            "Slovak",
+            "sk"
+        ],
+        [
+            "Slovenian",
+            "sl"
+        ],
+        [
+            "Somali",
+            "so"
+        ],
+        [
+            "Spanish",
+            "es"
+        ],
+        [
+            "Sundanese",
+            "su"
+        ],
+        [
+            "Swahili",
+            "sw"
+        ],
+        [
+            "Swedish",
+            "sv"
+        ],
+        [
+            "Tagalog (Filipino)",
+            "tl"
+        ],
+        [
+            "Tajik",
+            "tg"
+        ],
+        [
+            "Tamil",
+            "ta"
+        ],
+        [
+            "Tatar",
+            "tt"
+        ],
+        [
+            "Telugu",
+            "te"
+        ],
+        [
+            "Thai",
+            "th"
+        ],
+        [
+            "Tigrinya",
+            "ti"
+        ],
+        [
+            "Tsonga",
+            "ts"
+        ],
+        [
+            "Turkish",
+            "tr"
+        ],
+        [
+            "Turkmen",
+            "tk"
+        ],
+        [
+            "Twi (Akan)",
+            "ak"
+        ],
+        [
+            "Ukrainian",
+            "uk"
+        ],
+        [
+            "Urdu",
+            "ur"
+        ],
+        [
+            "Uyghur",
+            "ug"
+        ],
+        [
+            "Uzbek",
+            "uz"
+        ],
+        [
+            "Vietnamese",
+            "vi"
+        ],
+        [
+            "Welsh",
+            "cy"
+        ],
+        [
+            "Xhosa",
+            "xh"
+        ],
+        [
+            "Yiddish",
+            "yi"
+        ],
+        [
+            "Yoruba",
+            "yo"
+        ],
+        [
+            "Zulu",
+            "zu"
+        ]]
+}
